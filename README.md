@@ -3,10 +3,10 @@
 ![Cover](cover.png)
 
 ## 📌 Project Overview  
-This project analyzes **OLA ride booking data** for Bengaluru city. The dataset (1 month, 100k+ rows) was created for learning and demonstrates **end-to-end data analysis** using SQL, Power BI, and Excel.  
+This project analyses **OLA ride booking data** for Bengaluru city. The dataset (1 month, 100k+ rows) was created for learning and demonstrates **end-to-end data analysis** using SQL, Power BI, and Excel.  
 
 The aim was to:  
-- Understand booking trends, cancellations, and customer behavior  
+- Understand booking trends, cancellations, and customer behaviour  
 - Derive insights about vehicle types, ratings, and revenue  
 - Build an interactive **Power BI dashboard** to visualize findings  
 - Provide **recommendations** to improve business performance  
@@ -103,17 +103,12 @@ The aim was to:
 ---
 
 ## 🚀 How to Use  
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/yourusername/OLA-Data-Analysis.git
-   ```
-2. Import `sql.sql` into PostgreSQL/pgAdmin4.  
-3. Open `Ola Dashboard.pbix` in Power BI for visualizations.  
-4. Explore queries & insights in the repo.  
+1. Import `sql.sql` into PostgreSQL/pgAdmin4.  
+2. Open `Ola Dashboard.pbix` in Power BI for visualizations.  
+3. Explore queries & insights in the repo.  
 
 ---
 
 ## 👤 Author  
 **Deepak Kumar**  
 - 💼 Data Analyst | Marketing Executive | Freelancer  
-- 🌐 [LinkedIn](#) | 📧 your.email@example.com  
