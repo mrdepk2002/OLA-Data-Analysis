@@ -126,7 +126,7 @@ OLA Data Analyst P
 - **Revenue** highest during weekends & cricket match days  
 - **Top 5% customers** contributed nearly **20% of revenue**  
 - **Prime Sedan & SUV rides** → Higher distance + higher revenue  
-- **UPI** is the most preferred payment method  
+- **Cash** is the most preferred payment method  
 - **Driver cancellations (15-18%)** are significantly higher than customer cancellations (~6%)  
 
 ---
