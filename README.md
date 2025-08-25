@@ -24,9 +24,9 @@ The aim was to:
 1. **Data Cleaning & Modeling**  
    - Structured schema for bookings (date, time, booking_id, vehicle type, ratings, etc.)  
    - Ensured cancellation ratios:  
-     - Customer cancellations ≤ 7%  
-     - Driver cancellations ≤ 18%  
-     - Incomplete rides < 6%  
+     - Total cancellations ≤ 28%  
+     - Driver cancellations
+     - Incomplete rides 
 
 2. **SQL Queries for Business Questions**  
    - Successful bookings, average ride distance, top customers, cancellation reasons, etc.  
