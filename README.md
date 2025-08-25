@@ -1,4 +1,4 @@
-# 🚖 OLA Data Analysis Project  
+# OLA Data Analysis Project  
 
 ![Cover](cover.png)
 
